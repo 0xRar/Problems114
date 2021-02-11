@@ -1,4 +1,4 @@
-public class Employee2 {
+public class Employee {
     // Variable Declaration
     private String FirstName;
     private String LastName;
