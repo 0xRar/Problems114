@@ -1,5 +1,3 @@
-package src;
-
 public class Invoice {
 
 //    Private Data Members
