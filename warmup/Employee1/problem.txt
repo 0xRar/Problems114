@@ -1,0 +1,18 @@
+Employee Class #1
+
+Write a class named Employee that has the following fields:
+  • The name field is a String object that holds the employee’s name.
+  • The idNumber is an int variable that holds the employee’s ID number.
+  • The department field is a String object that holds the name of the department where the employee works.
+  • The position field is a String object that holds the employee’s job title.
+  
+Write appropriate set methods that store values in these fields and get methods that return the values in these
+fields. Once you have written the class, write a separate program that creates three Employee objects to hold
+the following data.
+
+
+Name ID      Number   Department   Position
+_____________________________________________________
+Susan Meyers| 47899 | Accounting    |Vice President
+Mark Jones  |39119  |     IT        |Programmer
+Joy Rogers  |81774  | Manufacturing |Engineer
