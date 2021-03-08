@@ -1,0 +1,9 @@
+Write a java program to do the following
+
+- Create an array of size 5 elements of type integer
+
+- ask the user to enter the values of the array
+
+- Search and find the first odd number
+
+- if there are no odd numbers, then please output a message "no odd numbers"
