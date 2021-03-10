@@ -18,10 +18,12 @@ public class ArrayPractice1 {
 
             if (Arr[i] % 2 == 1) {
                 System.out.println("The First odd number is: " + Arr[i]);
-            } else {
-                System.out.println("No odd numbers found.");
             }
             return;
+        }
+        
+        if (i == Arr.length) {
+            System.out.println("No odd numbers found.");
         }
 
         // Isa Ebrahim (0xRar)
