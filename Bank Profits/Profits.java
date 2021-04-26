@@ -1,3 +1,6 @@
+// Assignment 3
+// this is the solution for assignment 3
+
 import java.util.Scanner;
 
 public class Profits {
